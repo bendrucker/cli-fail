@@ -1,7 +1,7 @@
 {
   "name": "cli-fail",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fail with an error message and a correct exit code",
   "license": "MIT",
   "repository": "bendrucker/cli-fail",
