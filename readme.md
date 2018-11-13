@@ -1,4 +1,4 @@
-# cli-fail [![Build Status](https://travis-ci.org/bendrucker/cli-fail.svg?branch=master)](https://travis-ci.org/bendrucker/cli-fail)
+# cli-fail [![Build Status](https://travis-ci.org/bendrucker/cli-fail.svg?branch=master)](https://travis-ci.org/bendrucker/cli-fail) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/cli-fail.svg)](https://greenkeeper.io/)
 
 > Fail with an error message and a correct exit code
 
